@@ -1,0 +1,2 @@
+# DrawPhoto
+- This Python script provides an interactive interface to apply various image effects on photos. It uses OpenCV and Matplotlib libraries. Users input a photo URL, and the script displays options to view the original image, a colorized version, a sketch, and a comparison between the original and sketch. It enables users to toggle between these options, enhancing image processing and editing capabilities. Additionally, users can input multiple photos sequentially.
